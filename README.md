@@ -62,5 +62,5 @@ Minimum two machine installed and configured with puppet
 2.  go into database icingaweb2 => table (icingaweb_user)
 3.  and update admin password with above generated key.
 
-###Compatibility:
+## Compatiblity 
 OS => Centos (tested)
